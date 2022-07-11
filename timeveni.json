@@ -1,9 +1,9 @@
 {
 "radio": [
 {
-"radio_name": "Your Single Radio",
+"radio_name": "Tmveni Radio",
 "radio_genre": "Pop",
-"radio_url": "http://45.64.98.181:9764/stream",
+"radio_url": "https://play.streamafrica.net/timveni",
 "radio_image_url": "https://i.ibb.co/RQqggB6/radio-image.png",
 "background_image_url": "https://i.pinimg.com/originals/9b/2f/cf/9b2fcfc4838dbcbe8b97e2e038789e6b.gif"
 }
