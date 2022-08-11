@@ -1,10 +1,10 @@
 {
 "radio": [
 {
-"radio_name": "Timveni Radio",
-"radio_genre": "Pop",
-"radio_url": "https://play.streamafrica.net/timveni",
-"radio_image_url": "https://i.ibb.co/FsbJq5J/Untitled-design.png",
+"radio_name": "Beyond FM",
+"radio_genre": "Public Radio",
+"radio_url": "https://play.streamafrica.net/beyond",
+"radio_image_url": "https://i.ibb.co/1JtQ427/beyondfm.png",
 "background_image_url": "https://i.ibb.co/fMjnngg/Timveni-683x1024.jpg"
 }
 ],
@@ -12,7 +12,7 @@
 {
 "onesignal_app_id": "8e37561d-fd2e-4693-9d8c-c29326b3e29d",
 "fcm_notification_topic": "your_single_radio_topic",
-"privacy_policy_url": "https://quickapps-4my.pages.dev/timveni-privacypolicy",
+"privacy_policy_url": "https://quickapps-4my.pages.dev/beyond-privacypolicy",
 "more_apps_url": "https://play.google.com/store/apps/dev?id=8192904723724212630"
 }
 ],
