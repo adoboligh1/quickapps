@@ -1,1 +1,70 @@
-
+{
+"radio": [
+{
+"radio_name": "Timveni Radio",
+"radio_genre": "Pop",
+"radio_url": "https://play.streamafrica.net/timveni",
+"radio_image_url": "https://i.ibb.co/FsbJq5J/Untitled-design.png",
+"background_image_url": "https://i.ibb.co/fMjnngg/Timveni-683x1024.jpg"
+}
+],
+"settings": [
+{
+"onesignal_app_id": "8e37561d-fd2e-4693-9d8c-c29326b3e29d",
+"fcm_notification_topic": "your_single_radio_topic",
+"privacy_policy_url": "https://quickapps-4my.pages.dev/timveni-privacypolicy",
+"more_apps_url": "https://play.google.com/store/apps/dev?id=8192904723724212630"
+}
+],
+"ads": [
+{
+"ad_status": "on",
+"ad_type": "startapp",
+"admob_publisher_id": "pub-3940256099942544",
+"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+"startapp_app_id": 206283521,
+"unity_game_id": 4089993,
+"unity_banner_placement_id": "banner",
+"unity_interstitial_placement_id": "video",
+"applovin_banner_unit_id": "0",
+"applovin_interstitial_unit_id": "0",
+"interstitial_ad_interval": 1
+}
+],
+"socials": [
+{
+"social_name": "timveni.com",
+"social_icon": "https://i.ibb.co/Jz4RNSX/web.png",
+"social_url": "https://timveni.com"
+},
+{
+"social_name": "+265(0)992677092",
+"social_icon": "https://i.ibb.co/4F71gL9/phone.png",
+"social_url": "tel:+265992677092"
+},
+{
+"social_name": "facebook.com/timveniradio",
+"social_icon": "https://i.ibb.co/gPhRn4J/facebook.png",
+"social_url": "https://facebook.com/timveniradio/"
+},
+{
+"social_name": "www.instagram.com/timvenionline",
+"social_icon": "https://i.ibb.co/fvgkKNG/instagram.png",
+"social_url": "https://www.instagram.com/timvenionline"
+},
+{
+"social_name": "twitter.com/timvenionline",
+"social_icon": "https://i.ibb.co/nn0HK8c/twitter.png",
+"social_url": "https://twitter.com/timvenionline"
+},
+  {
+"social_name": "youtube.com/user/TimveniTV",
+"social_icon": "https://i.ibb.co/Mf6MSwj/youtube.png",
+"social_url": "https://www.youtube.com/user/TimveniTV"
+ 
+}
+]
+}
